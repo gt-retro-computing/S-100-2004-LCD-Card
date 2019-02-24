@@ -3,6 +3,8 @@ This is a simple adapter board for the S-100 bus to communicate with a character
 ## Addressing
 Control Port: Output 0xFC
 Data Port: Output 0xFD
+## Editing
+Project is designed with Altium Designer 19. Gerber files are provided for the ease of use. 
 
 ## Parts List
   | Component                      | Count |
